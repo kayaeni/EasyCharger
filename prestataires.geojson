@@ -13,13 +13,13 @@
               ]
             },
             "properties": {
-                name : 'Le Bar a chaussette',
-                category: 'Bar',
-                phone: '02 42 25 26 32',
-                address: '77 Quai des États-Unis',
-                city: 'Nice',
-                country: 'France',
-                postalCode: '06300',
+                 name : 'Le Bar a chaussette',
+                 category: 'Bar',
+                 phone: '02 42 25 26 32',
+                 address: '77 Quai des États-Unis',
+                 city: 'Nice',
+                 country: 'France',
+                 postalCode: '06300',
             }
           },
           {
@@ -32,13 +32,13 @@
               ]
             },
             "properties": {
-              name : 'Le Bar a chaussette',
-                category: 'Bar',
-                phone: '02 42 25 26 32',
-                address: '77 Quai des États-Unis',
-                city: 'Nice',
-                country: 'France',
-                postalCode: '06300',
+                   name : 'Le Bar a chaussette',
+                   category: 'Bar',
+                   phone: '02 42 25 26 32',
+                   address: '77 Quai des États-Unis',
+                   city: 'Nice',
+                   country: 'France',
+                   postalCode: '06300',
             }
           },
           {
@@ -51,7 +51,7 @@
               ]
             },
             "properties": {
-              name : 'Le Bar a chaussette',
+                name : 'Le Bar a chaussette',
                 category: 'Bar',
                 phone: '02 42 25 26 32',
                 address: '77 Quai des États-Unis',
