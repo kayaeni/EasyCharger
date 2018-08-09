@@ -6,9 +6,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                  //Longitude
                    7.274007999999981,
-                   //Latitude
                    43.695175
               ]
             },
